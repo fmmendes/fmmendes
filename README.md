@@ -1,4 +1,4 @@
-Em breve novidades!!!
+![Project Euler Profile](https://projecteuler.net/profile/filipemmendes.png)
 
 <!--
 **fmmendes/fmmendes** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
